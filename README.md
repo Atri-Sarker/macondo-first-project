@@ -6,7 +6,8 @@
 - Minimalist
 
 $$ I thought I could do LaTeX with these dollar signs. Let's see: \hat{\frac{6}{7}} $$
-I apparently can do them without dollar signs \hat{Awesome}
+\hat{RIP}
+\frac{1}{2}
 
 ## Preview
 
