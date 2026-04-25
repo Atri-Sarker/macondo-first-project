@@ -5,7 +5,8 @@
 - Aesthetic
 - Minimalist
 
-$$ I thought I could do Latex with these dollar signs. Alas I can't \hat{\frac{6}} $$
+$$ I thought I could do LaTeX with these dollar signs. Let's see: \hat{\frac{6}{7}} $$
+I apparently can do them without dollar signs \hat{Awesome}
 
 ## Preview
 
